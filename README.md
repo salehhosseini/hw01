@@ -1,4 +1,4 @@
-See the [assignment](HW01.ipynb) as a Jupyter notebook.
+See the [HW01.ipynb assignment](HW01.ipynb) as a Jupyter notebook.
 
 When you accept the assignment, GitHub will clone the files into your own private repository. You may then clone those files onto your local machine. To submit assignment, commit changes and push your code back to GitHub, and give permission for @artkuo to access your repository.
 
