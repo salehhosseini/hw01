@@ -1,4 +1,4 @@
-See the [HW01.ipynb assignment](HW01.ipynb) as a Jupyter notebook.
+See the [HW01.ipynb assignment](HW01.ipynb) as a Jupyter notebook. Note: An equation does not render properly in GitHub. See the [PDF](HW01.pdf) file for correct equation.
 
 When you accept the assignment, GitHub will clone the files into your own private repository. You may then clone those files onto your local machine. To submit assignment, commit changes and push your code back to GitHub, and give permission for @artkuo to access your repository.
 
